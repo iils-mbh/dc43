@@ -1,9 +1,9 @@
 # dc43-QuestionsAndAnswers
 This is the official place to ask questions about the Design Cockpit 43 (dc43) and receive answers directly from its developers.
 
-## Questions
+## Questions and Discussions
 
-Feel free to ask questions via the "issues" button up top.
+Feel free to ask questions via the "Discussions" button up top.
 
 
 ## Bugs and Issues
