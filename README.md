@@ -1,9 +1,11 @@
-# dc43-QuestionsAndAnswers
-This is the official place to ask questions about the Design Cockpit 43 (dc43) and receive answers directly from its developers.
+<div align="center">
+  <span align="center"> <img width="80" height="80" class="center" src="https://www.iils.de/img/portfolio/dc43-128.png" alt="Icon"></span>
+  <h1 align="center">Design Cockpit 43</h1>
+</div>
 
 ## Questions and Discussions
 
-Feel free to ask questions via the "Discussions" button up top.
+Feel free to ask questions via the "Discussions" button up top and receive answers directly from its developers.
 
 
 ## Bugs and Issues
