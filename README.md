@@ -10,5 +10,5 @@ Feel free to ask questions via the "Discussions" button up top and receive answe
 
 ## Bugs and Issues
 
-If you experience an issue and are sure it is a bug please use the bug reporting tool of the Design Cockit 43.
+If you experience an issue use the bug reporting tool of the Design Cockit 43.
 A new issue will be created in our internal tracking system.
